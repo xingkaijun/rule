@@ -2,28 +2,10 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        #"weixinsxy.com",
-        #"wxapp.tc.qq.com"
-      ]
-    },
-    {
       "domain_suffix": [
         ".pacific-gas.com",
         ".pgnewbuilding.com"
-      ]
-    },
-    {
-      "domain_keyword": [
-        #"cherrytv",
-        #"cherr"
-      ]
-    },
-    {
-      "ip_cidr": [
-        #"129.226.3.47/32",
-        #"162.62.163.63/32"
-      ]
-    }
+  ]
+}
   ]
 }
