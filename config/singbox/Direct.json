@@ -3,9 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        ".pacific-gas.com",
-        ".pgnewbuilding.com"
-  ]
-}
+        "pacific-gas.com",
+        "pgnewbuilding.com"
+      ]
+    }
   ]
 }
