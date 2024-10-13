@@ -3,26 +3,26 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com"
+        #"weixinsxy.com",
+        #"wxapp.tc.qq.com"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
+        ".pacific-gas.com",
+        ".pgnewbuilding.com"
       ]
     },
     {
       "domain_keyword": [
-        "cherrytv",
-        "cherr"
+        #"cherrytv",
+        #"cherr"
       ]
     },
     {
       "ip_cidr": [
-        "129.226.3.47/32",
-        "162.62.163.63/32"
+        #"129.226.3.47/32",
+        #"162.62.163.63/32"
       ]
     }
   ]
