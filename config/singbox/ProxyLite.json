@@ -6,6 +6,11 @@
         "bing.com",
         "110329.xyz"
       ]
-    }
+    },
+    {
+      "domain": [
+        "copilot.cloud.microsoft"
+      ]
+    },
   ]
 }
