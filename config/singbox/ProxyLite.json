@@ -1,16 +1,16 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "bing.com",
-        "110329.xyz"
-      ]
-    },
-    {
-      "domain": [
-        "copilot.cloud.microsoft"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "bing.com",
+                "110329.xyz"
+            ]
+        },
+        {
+            "domain": [
+                "copilot.cloud.microsoft"
+            ]
+        }
+    ]
 }
