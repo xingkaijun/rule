@@ -9,7 +9,8 @@
         },
         {
             "domain": [
-                "copilot.cloud.microsoft"
+                "copilot.cloud.microsoft",
+                "copilot.microsoft.com"
             ]
         }
     ]
