@@ -1,15 +1,15 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "pacific-gas.com",
-        "pgnewbuilding.com",
-        "810903.xyz",
-        "office.com",
-        "office365.com",
-        "live.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "pacific-gas.com",
+                "pgnewbuilding.com",
+                "810903.xyz",
+                "office.com",
+                "office365.com",
+                "live.com"
+            ]
+        }
+    ]
 }
