@@ -1,5 +1,5 @@
-# NAME: 360
-# AUTHOR: blackmatrix7
+# NAME: selfdirect
+# AUTHOR: kjxing
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:16:17
 # DOMAIN-SUFFIX: 259
@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,pacific-gas.com
   - DOMAIN-SUFFIX,pgnewbuilding.com
   - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,810903.xyz
