@@ -11,3 +11,4 @@ payload:
   - DOMAIN,copilot.microsoft
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,pikpak.com
+  - DOMAIN-SUFFIX,pikpakdrive.com
