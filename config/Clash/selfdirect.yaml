@@ -8,5 +8,4 @@ payload:
   - DOMAIN-SUFFIX,pacific-gas.com
   - DOMAIN-SUFFIX,pgnewbuilding.com
   - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,810903.xyz
   - IP-CIDR,213.35.100.0/8
