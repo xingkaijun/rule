@@ -9,3 +9,7 @@ payload:
   - DOMAIN-SUFFIX,pgnewbuilding.com
   - DOMAIN-SUFFIX,office365.com
   - IP-CIDR,213.35.100.0/8
+  - IP-CIDR,140.245.110.0/8
+  - IP-CIDR,150.230.39.0/8
+  - IP-CIDR,192.9.231.0/8
+  - IP-CIDR,192.9.227.0/8
